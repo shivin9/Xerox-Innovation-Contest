@@ -12,7 +12,7 @@ a) The doctor knows the best
 #
 b) In general the trend of the vitals will ultimately determine the mortality rate for the majority of population
 
-The features we created therefore mainly encaptured the trend of the patient's vitals and the frequency with which the doctor is taking the tests. Some of our features were :-
+The features that were created therefore mainly encaptured the trend of the patient's vitals and the frequency with which the doctor is taking the tests. Some of our features were :-
 #
 1) The parameters of the cubic fit of the vitals data(after it had been cleaned and it's moving avg. taken). The polynomial regression of the vital parameters allowed us to determine the trend of the vitals. We noticed that a constantly decreasing BP meant that the patient was likely to die.
 #
