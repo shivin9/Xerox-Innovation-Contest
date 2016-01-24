@@ -6,7 +6,7 @@ Score :0.43/1.00
 #
 pos: 5/1500
 #
-My approach in brief towards the problem was guided by 2 basic facts :-
+Our approach in brief towards the problem was guided by 2 basic facts :-
 #
 a) The doctor knows the best
 #
@@ -21,4 +21,4 @@ The features that were created therefore mainly encaptured the trend of the pati
 3) The min, max and the std. deviation of the vitals wrt. the normal values. The moving std. deviation was a good measure to determine how much the values differed from normal value.
 
 #
-For classification model I used XGBoost(Xtreme Gradient Boosting) library.
+For classification model we used XGBoost(Xtreme Gradient Boosting) library.
