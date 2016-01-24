@@ -22,3 +22,5 @@ The features that were created therefore mainly encaptured the trend of the pati
 
 #
 For classification model we used XGBoost(Xtreme Gradient Boosting) library.
+
+Team Members: Shivin Srivastava, Gaurav Shrivastava, Hardik Malhotra
